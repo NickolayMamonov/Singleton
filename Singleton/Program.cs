@@ -2,9 +2,9 @@
 
 using Singleton;
 
-Mechanic m1 = Mechanic.GetMechanic();
-Mechanic m2 = Mechanic.GetMechanic();
-Mechanic m3 = Mechanic.GetMechanic();
+Mechanic m1 = Mechanic.GetInstance();
+Mechanic m2 = Mechanic.GetInstance();
+Mechanic m3 = Mechanic.GetInstance();
 
 if (m1 == m2 && m2 == m3)
 {

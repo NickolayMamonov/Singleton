@@ -9,7 +9,7 @@ public class Mechanic
      
     }
 
-    public static Mechanic GetMechanic()
+    public static Mechanic GetInstance()
     {
         if (_instance == null)
         {
@@ -20,10 +20,10 @@ public class Mechanic
     }
     public void CheckProblem(string problem)
     {
-        Console.WriteLine("The mechanic examined the " + problem);
+        Console.WriteLine($"The mechanic examined the {problem}");
     }
     public void Repair(string detail)
     {
-        Console.WriteLine("The mechanic started repairing the " + detail);
+        Console.WriteLine($"The mechanic started repairing the {detail}");
     }
 }

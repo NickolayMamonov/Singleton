@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FIXEOdNkOnC7p7IakSO2tJL8fWcgsoUmSTzpNKsDFAyZgXn/K6Z5ezz6UFyzh3VZfrtoSoFfgZbwPcUjX8FQFw==",
+  "dgSpecHash": "4rcCtFRgR2JS4X5VEPZQB08uR6K/wIr/HJb1JKr9setpw5bk93p8SDmGhl6JKb/Ik6p2+19EkJTXhzt1lk7I7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Whysoezzy\\RiderProjects\\Singleton\\Singleton\\Singleton.csproj",
+  "projectFilePath": "/Users/fegol/RiderProjects/Singleton/Singleton/Singleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
